@@ -5,6 +5,7 @@
     <modules>
         <module>eureka-vue</module>
         <module>config-vue</module>
+        <module>zuul-vue</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
