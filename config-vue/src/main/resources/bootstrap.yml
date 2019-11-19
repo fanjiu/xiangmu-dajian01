@@ -5,6 +5,6 @@ spring:
     config:
       server:
         git:
-          uri:
+          uri: https://github.com/fanjiu/xiangmu-dajian01.git
           search-paths: config-repo
 
